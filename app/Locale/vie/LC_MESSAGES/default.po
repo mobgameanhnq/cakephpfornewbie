@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Actions"
+msgstr "Hoạt động"
+
+msgid "Created"
+msgstr "Ngày tạo"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Edit"
+msgstr "Sửa"
+
+msgid "Blog posts"
+msgstr "Bài viếts"
+
+msgid "Add Post"
+msgstr "Thêm bài viết"
+
+msgid "Edit Post"
+msgstr "Sửa bài viết"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "VietNam"
+msgstr "Tiếng việt"
+
+msgid "Japan"
+msgstr "Tiếng Nhật"
+
+msgid "Users"
+msgstr "Người dùng"
+
+msgid "View"
+msgstr "Lượt xem"
+
+msgid "Created"
+msgstr "Ngày tạo"
+
+msgid "Invalid post"
+msgstr "Bài viết không hợp lệ"
+
+msgid "Your post has been saved."
+msgstr "Bài viết của bạn đã được lưu."
+
+msgid "Your post has been updated."
+msgstr "Bài viết của bạn đã được cập nhật."
+
+msgid "Unable to update your post."
+msgstr "KHông thể cập nhật bài viết của bạn."
+
+msgid "The post with id: %s has been deleted."
+msgstr "Xóa thành công bài viết có ID: %s."
+
+msgid "The post with id: %s could not be deleted."
+msgstr "Không thể xóa được bài viết có ID: %s."

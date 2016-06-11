@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Blog posts"
+msgstr "Blog posts"
+
+msgid "Add Post"
+msgstr "Add Post"
+
+msgid "Edit Post"
+msgstr "Edit Post"
+
+msgid "English"
+msgstr "English"
+
+msgid "VietNam"
+msgstr "VietNam"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "View"
+msgstr "View"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Invalid post"
+msgstr "Invalid post"
+
+msgid "Your post has been saved."
+msgstr "Your post has been saved."
+
+msgid "Your post has been updated."
+msgstr "Your post has been updated."
+
+msgid "Unable to update your post."
+msgstr "Unable to update your post."
+
+msgid "The post with id: %s has been deleted."
+msgstr "The post with id: %s has been deleted."
+
+msgid "The post with id: %s could not be deleted."
+msgstr "The post with id: %s could not be deleted."
